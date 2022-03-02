@@ -1,2 +1,2 @@
 # jogo-da-forca
-Afim de aprimorar estudos em listas,leituras e escritas em arquivo.
+Programa de exemplo para o Workshop de Python da WeekOne 2020 (Rito de entrada dos novos alunos da faculdade)
